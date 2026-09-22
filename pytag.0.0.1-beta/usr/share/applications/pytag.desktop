@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PyTag
+GenericName=Audio Tag Editor
+Comment=Simple and lightweight MP3 tag editor
+Exec=/usr/bin/pytag %F
+Icon=PyTag
+Terminal=false
+Categories=AudioVideo;Audio;AudioVideoEditing;
+MimeType=audio/mpeg;
+Keywords=mp3;tag;id3;audio;metadata;cover;
